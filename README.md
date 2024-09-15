@@ -20,6 +20,7 @@ Skills: JS / HTML / CSS
 <html>
   <h1> Projects I have contriubted to </h1>
   <ul>
-    <li> </li>
+    <li> <a href="https://github.com/THAM2627/Module_9R_CS20240249_PTO2407_Group-B_Thamsanqa-Qaba_SDF09_R-Surname_SDF09_R-Surname_SDF09_R.git"> BlackJack Game </a> </li>
+    <li> <a href="https://github.com/THAM2627/Module_3R_CS20240249_PTO2407_Group-B_Thamsanqa-Qaba_SDF03_R.git"> Cat HTML Portfolio </a> </li>
   </ul>
 </html>
