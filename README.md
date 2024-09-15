@@ -18,8 +18,3 @@ You can click the Preview link to take a look at your changes.
   <li> <a href="https://github.com/THAM2627/THAM2627"> GitHub </a> </li>
   </ul>
 </html>
-
-.h1{
-background-color: red;
-
-}
