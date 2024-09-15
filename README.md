@@ -1,5 +1,5 @@
 - 👋 Hi THERE, I’m Thamsanqa Qaba 
-- I’m interested in playing the piano, learning languages.
+- I’m interested in playing the piano and learning languages.
 - You can reach me at (thamie.qaba@gmail.com)
 - Skills: CSS | JS | HTML
 
