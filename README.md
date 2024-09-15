@@ -1,20 +1,19 @@
-- 👋 Hi THERE, I’m Thamsanqa Qaba 
-- I’m interested in playing the piano and learning languages.
-- You can reach me at (thamie.qaba@gmail.com)
-- Skills: CSS | JS | HTML
+### Hi there 👋, my name is Thamsanqa Qaba
+#### Design and Full Stack Development
+I am Thamsanqa Qaba, I am from South Africa.
+I am interested in fashion, music and coding.
+
+Skills: JS / HTML / CSS
+
+- 🔭 I’m currently working on my coding projects 
+- 🌱 I’m currently learning Full-Stack Development 
+- 💬 Ask me about whatever seems fitting 
+- 📫 How to reach me: thamie.qaba@gmail.com 
+- 😄 Pronouns: he/him 
+- ⚡ Fun fact: I am studying piano and singing lessons. 
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/THAM2627)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/professionalgrootman/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='youtube' height='40'>](https://www.youtube.com/channel/UCRaLPuaWs-YBk6yNrSFbyeg)  
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=THAM2627&show_icons=true)  
 
-[![THAM! Github Stats](https://github-readme-stats.vercel.app/api?username=THAM2627)](https://github.com/anuraghazra/github-readme-stats)
-<!---
-THAM2627/THAM2627 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<html>
-  <h1>Socials</h1>
-  <ul>
-  <li> <a href="https://www.youtube.com/channel/UCRaLPuaWs-YBk6yNrSFbyeg">Youtube</a> </li>
-  <li> <a href="https://github.com/THAM2627/THAM2627"> GitHub </a> </li>
-  </ul>
-</html>
