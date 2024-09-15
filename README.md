@@ -1,7 +1,8 @@
 - 👋 Hi THERE, I’m Thamsanqa Qaba 
 - I’m interested in playing the piano, learning languages.
-- I’m currently learning the ins and outs of Javascript, HTML, CSS.
+- Skills: CSS | JS | HTML 
 - You can reach me at my email (thamie.qaba@gmail.com)
+
 
 [![THAM! Github Stats](https://github-readme-stats.vercel.app/api?username=THAM2627)](https://github.com/anuraghazra/github-readme-stats)
 <!---
