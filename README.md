@@ -2,6 +2,7 @@
 - I’m interested in playing the piano, learning languages, and coding asmr videos.
 - I’m currently learning the ins and outs of Javascript, HTML, CSS.
 - You can reach me at my email (thamie.qaba@gmail.com)
+
 [![THAM! Github Stats](https://github-readme-stats.vercel.app/api?username=THAM2627)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 THAM2627/THAM2627 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
