@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Thamsanqa Qaba
 #### Design and Full Stack Development
-I am Thamsanqa Qaba, I am from South Africa.
+I am Thamsanqa Qaba, I am a full stack developer, I am from South Africa.
 I am interested in fashion, music and coding.
 
 Skills: JS / HTML / CSS
