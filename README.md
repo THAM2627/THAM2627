@@ -17,3 +17,9 @@ Skills: JS / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=THAM2627&show_icons=true)  
 
+<html>
+  <h1> Projects I have contriubted to </h1>
+  <ul>
+    <li> </li>
+  </ul>
+</html>
