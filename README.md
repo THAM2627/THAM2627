@@ -1,5 +1,5 @@
 - 👋 Hi THERE, I’m Thamsanqa Qaba 
-- I’m interested in playing the piano, learning languages, and coding asmr videos.
+- I’m interested in playing the piano, learning languages.
 - I’m currently learning the ins and outs of Javascript, HTML, CSS.
 - You can reach me at my email (thamie.qaba@gmail.com)
 
