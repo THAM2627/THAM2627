@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 <html>
   <h1>Socials</h1>
   <ul>
-  <a href="https://www.youtube.com/channel/UCRaLPuaWs-YBk6yNrSFbyeg">Youtube</a>
-  <a href="https://github.com/THAM2627/THAM2627"> GitHub </a>
+  <li> <a href="https://www.youtube.com/channel/UCRaLPuaWs-YBk6yNrSFbyeg">Youtube</a> </li>
+  <li> <a href="https://github.com/THAM2627/THAM2627"> GitHub </a> </li>
   </ul>
 </html>
